@@ -2,6 +2,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+```
+add this keys .env file. //https://edgestore.dev/docs/quick-start
+EDGE_STORE_ACCESS_KEY=access-key
+EDGE_STORE_SECRET_KEY=secret-key
+```
+
 First, run the development server:
 
 ```bash
